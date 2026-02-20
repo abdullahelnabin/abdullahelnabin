@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on Open Source and Problem Solving projects  
 - 🤔 I’m looking for help with advanced algorithms and optimization strategies  
 - 💬 Ask me about C++, STL, and logical problem solving  
-- 📫 How to reach me: abdullahelnabin@email.com  
+- 📫 How to reach me: abdullahalnabin@email.com  
 - ⚡ Fun fact: I enjoy solving challenging problems and turning logic into efficient code 🚀
   
 ## 👨‍💻 About Me
