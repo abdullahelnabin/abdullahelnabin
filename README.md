@@ -1,12 +1,12 @@
 ## Hi there 👋
-- 🔭 I’m currently building strong programming fundamentals  
-- 🌱 I’m currently learning C++, Data Structures, and modern development practices  
-- 👯 I’m looking to collaborate on beginner-friendly open source projects  
-- 🤔 I’m looking for help with real-world software architecture  
-- 💬 Ask me about C++, problem solving, and programming basics  
-- 📫 How to reach me: abdullahalnabin@email.com  
-- ⚡ Fun fact: I love transforming ideas into working code 💻  
-
+- 🔭 I’m currently working on improving my Data Structures & Algorithms skills  
+- 🌱 I’m currently learning Advanced C++ and Competitive Programming techniques  
+- 👯 I’m looking to collaborate on Open Source and Problem Solving projects  
+- 🤔 I’m looking for help with advanced algorithms and optimization strategies  
+- 💬 Ask me about C++, STL, and logical problem solving  
+- 📫 How to reach me: abdullahelnabin@email.com  
+- ⚡ Fun fact: I enjoy solving challenging problems and turning logic into efficient code 🚀
+  
 ## 👨‍💻 About Me
 I am an aspiring Backend Developer currently working with Django (Python).  
 I actively practice problem solving using C++ to strengthen my Data Structures & Algorithms skills.  
