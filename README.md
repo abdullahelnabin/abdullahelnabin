@@ -1,17 +1,26 @@
-## Hi there 👋
-- 🔭 I’m currently working on improving my Data Structures & Algorithms skills  
-- 🌱 I’m currently learning Advanced C++ and Competitive Programming techniques  
-- 👯 I’m looking to collaborate on Open Source and Problem Solving projects  
-- 🤔 I’m looking for help with advanced algorithms and optimization strategies  
-- 💬 Ask me about C++, STL, and logical problem solving  
-- 📫 How to reach me: abdullahalnabin@email.com  
-- ⚡ Fun fact: I enjoy solving challenging problems and turning logic into efficient code 🚀
+# Hi, I'm Abdullahel Nabin 👋
+
+### Competitive Programmer | C++ | DSA | Aspiring Software Engineer
+
+I'm passionate about competitive programming, problem solving, and software engineering.
+I primarily solve algorithmic problems using C++ and continuously work on improving my Data Structures and Algorithms skills.
   
 ## 👨‍💻 About Me
-I am an aspiring Backend Developer currently working with Django (Python).  
-I actively practice problem solving using C++ to strengthen my Data Structures & Algorithms skills.  
-I use Python for Object-Oriented Programming practice and am currently learning Java for development.  
-I am passionate about writing clean code, building backend logic, and continuously improving my technical foundation.
+
+- 🧠 Competitive Programmer & Problem-Solving Enthusiast
+- 💻 Primarily solving problems using C++
+- 🏆 Codeforces Specialist
+- ⭐ CodeChef 3★
+- 📚 Learning Data Structures, Algorithms, OOP, and Software Development
+- 🌱 Exploring Backend Development
+- 🎯 Goal: Become a strong Software Engineer
+
+## 🏆 Competitive Programming
+
+- Codeforces: Specialist
+- CodeChef: 3★
+- Problems Solved: 500+
+- Primary Language: C++
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/abdulahelhossain.nabin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/munshi-md-abdullahel-hossain-nabin-619b87377) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AbdullahalNabin) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Learnwithnabin2.0) 
