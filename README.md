@@ -3,10 +3,10 @@
 
 ## 🏆 Competitive Programming
 
-- Codeforces: Specialist
-- CodeChef: 3★
-- Problems Solved: 500+
-- Primary Language: C++
+- 🔵 **Codeforces:** [nabin_cp](https://codeforces.com/profile/nabin_cp) — Specialist
+- ⭐ **CodeChef:** [debug_nabin](https://www.codechef.com/users/debug_nabin) — 3★
+- 💻 **Primary Language:** C++
+- 🧠 **Focus:** Data Structures, Algorithms & Problem Solving
 
 
 ## 🌐 Socials:
