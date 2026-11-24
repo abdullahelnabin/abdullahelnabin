@@ -1,24 +1,145 @@
-# 💫 About Me:
-## 👨‍💻 About Me<br><br>- 🧠 Competitive Programmer & Problem-Solving Enthusiast<br>- 💻 Primarily solving problems using C++<br>- 🏆 Codeforces Specialist<br>- ⭐ CodeChef 3★<br>- 📚 Learning Data Structures, Algorithms, OOP, and Software Development<br>- 🌱 Exploring Backend Development<br>- 🎯 Goal: Become a strong Software Engineer
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Munshi+Md.+Abdullahel+Hossain+Nabin;Codeforces+Specialist+%F0%9F%94%B5+%7C+CodeChef+3%E2%98%85;Competitive+Programmer+%7C+C%2B%2B+Enthusiast;Aspiring+Software+Engineer+%F0%9F%9A%80" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=abdullahelnabin&label=Profile%20views&color=0e75b6&style=flat" />
+<img src="https://img.shields.io/github/followers/abdullahelnabin?style=flat&logo=github&label=Followers" />
+
+<br/><br/>
+
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/abdullahelnabin)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/abdulahelhossain.nabin)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_naabiin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullahel-nabin)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AbdullahalNabin)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@Learnwithnabin2.0)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdullahalnabin@gmail.com)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+> Competitive programmer who loves turning hard problems into clean solutions. Currently deepening my knowledge of Data Structures, Algorithms and OOP while exploring backend development.
+
+- 🎓 **CSE, 3rd Year** — Uttara University
+- 📍 Nikunjo 2, Dhaka, Bangladesh
+- 🧠 Competitive Programmer & Problem-Solving Enthusiast
+- 💻 Primarily solving problems in **C++**
+- 📚 Learning Data Structures, Algorithms, OOP and Software Development
+- 🌱 Exploring Backend Development
+- 🎥 Sharing what I learn on [YouTube — Learn with Nabin](https://www.youtube.com/@Learnwithnabin2.0)
+- 🎯 **Goal:** Become a strong Software Engineer
+
+---
 
 ## 🏆 Competitive Programming
 
-- 🔵 **Codeforces:** [nabin_cp](https://codeforces.com/profile/nabin_cp) — Specialist
-- ⭐ **CodeChef:** [debug_nabin](https://www.codechef.com/users/debug_nabin) — 3★
+<div align="center">
+
+| Platform | Handle | Rating |
+| :--- | :--- | :--- |
+| 🔵 Codeforces | [nabin_cp](https://codeforces.com/profile/nabin_cp) | Specialist · Max **1426** |
+| ⭐ CodeChef | [debug_nabin](https://www.codechef.com/users/debug_nabin) | 3★ |
+| 🟡 LeetCode | [YOUR_LEETCODE_USERNAME](https://leetcode.com/u/YOUR_LEETCODE_USERNAME) | — |
+
+<a href="https://codeforces.com/profile/nabin_cp"><img height="150" src="https://codeforces-readme-stats.vercel.app/api/card?username=nabin_cp&theme=tokyonight" /></a>
+
+<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME"><img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Karla&ext=heatmap" /></a>
+
+</div>
+
 - 💻 **Primary Language:** C++
 - 🧠 **Focus:** Data Structures, Algorithms & Problem Solving
 
+---
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/abdullahelnabin) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/abdulahelhossain.nabin) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_naabiin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullahel-nabin) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AbdullahalNabin) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Learnwithnabin2.0) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdullahalnabin@gmail.com) 
+## 🎖️ Achievements
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=abdullahelnabin&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=abdullahelnabin&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=abdullahelnabin&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+| Year | Achievement | Organizer |
+| :---: | :--- | :--- |
+| 2026 | 🥉 **2nd Runners Up** — Intra University Programming Contest 2026 | Uttara University Computer Programming Club (UUCPC) |
+| 2026 | 🔵 **Codeforces Specialist** (max rating 1426) — Certificate of Recognition, Phitron Batch 8 | Phitron |
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
 
+## 💻 Tech Stack
 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| [**VUSC**](https://github.com/abdullahelnabin/vusc) | Village Unity Sports Club — *[add one-line description]* | `[Tech]` |
+| [**NSN DESIGN BD**](https://github.com/abdullahelnabin/NSN-DESIGN-BD) | *[add one-line description]* | `[Tech]` |
+| [**AI Lost & Found**](https://github.com/abdullahelnabin/AI-Lost-Found) | *[add one-line description]* | `[Tech]` |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=abdullahelnabin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahelnabin&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com/?user=abdullahelnabin&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdullahelnabin/abdullahelnabin/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdullahelnabin/abdullahelnabin/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/abdullahelnabin/abdullahelnabin/output/github-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+## ⚡ Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+## 🎬 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+---
+
+<div align="center">
+
+*“First, solve the problem. Then, write the code.”*
+
+<sub>⚙️ Auto-updated by GitHub Actions</sub>
+
+</div>
